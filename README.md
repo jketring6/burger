@@ -8,7 +8,7 @@ Begin by adding your favorite burgers to the list and then use the "Eat The Burg
 
 ## Functionality
 
-![gif of Eat The Burger Functionality](assets/images/burger_action.gif)
+![gif of Eat The Burger Functionality](public/assets/images/burger_action.gif)
 
 ## Deployment
 
