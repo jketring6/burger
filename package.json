@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/jketring6/burger#readme",
   "dependencies": {
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
     "mysql": "^2.15.0"
   }
 }

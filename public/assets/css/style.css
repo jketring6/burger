@@ -1,0 +1,43 @@
+body {
+    background-image: url("../images/burger_bg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Helvetica;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-weight: bolder;
+	color: #ffffff;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.panel {
+    opacity: .7
+}
+
+.btn-sm {
+	outline-color: black;
+}
+
+#eat-burgers {
+	text-align: center;
+}
+
+#burgers-eaten {
+	text-align: center;
+}
+
+.form-control {
+	width: 40%;
+}
